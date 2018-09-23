@@ -1,0 +1,16 @@
+{
+  "name": "gruntworkflows",
+  "version": "1.0.0",
+  "description": "Project for Grunt Workflows Course",
+  "author": "Phuc Nguyen Minh",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-script-link-tags": "^1.0.2",
+    "load-grunt-tasks": "^4.0.0"
+  }
+}
